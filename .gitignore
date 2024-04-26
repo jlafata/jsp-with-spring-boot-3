@@ -4,6 +4,9 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+./set_azure_oauth_vars.sh
+./set_github_oauth_vars.sh
+
 ### STS ###
 .apt_generated
 .classpath
