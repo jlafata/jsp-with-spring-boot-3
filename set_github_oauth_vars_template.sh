@@ -1,0 +1,5 @@
+#!/bin/bash
+
+export SPRING_PROFILES_ACTIVE=github
+export GITHUB_OAUTH2_CLIENT_ID=<redacted_github_oauth2_client_id>
+export GITHUB_OAUTH2_CLIENT_SECRET=<redacted_github_oauth2_client_secret>
